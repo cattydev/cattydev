@@ -1,6 +1,6 @@
 
 # [Welcome to My Profile! 👋](https://yusufusta.net)
-![Profile views](https://gpvc.arturio.dev/igetalways)
+![Profile views](https://gpvc.arturio.dev/igetalways)🤔
 
 
 <details>
@@ -14,11 +14,11 @@ Q | A
 **My Favorite Languages**  | `PHP, C#/VB.Net, JS, Python, Go, Swift`
 
 </details>
-- 👋 Hi, I’m @iGetAlways
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 😎 I need a h*g
+- 👋 Hi, I’m @iGetAlways<br>
+- 👀 I’m interested in nothing<br>
+- 🌱 I’m currently learning nothing<br>
+- 💞️ I’m looking to collaborate on nothing<br>
+- 😎 I need a h*g<br>
 <details>
   <summary>Stats</summary>
 
