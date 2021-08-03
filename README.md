@@ -1,6 +1,6 @@
 
 # [Welcome to My Profile! 👋](https://yusufusta.net)
-![Profile views](https://gpvc.arturio.dev/quiec)
+![Profile views](https://gpvc.arturio.dev/igetalways)
 
 
 <details>
