@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning nothing<br>
 - 💞️ I’m looking to collaborate on nothing<br>
 - 😎 I need a h*g<br>
-<details>
 
+<table align="center">
 
     <tr>
         <td width="410" align="left"><img src="https://github-readme-stats.vercel.app/api?username=igetalways&show_icons=true&theme=radical" /></td>
@@ -19,4 +19,4 @@
         <td width="410" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igetalways&theme=radical&layout=compact" /></td>
     </tr>
 
-</details>
+</table>
