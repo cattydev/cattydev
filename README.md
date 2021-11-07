@@ -10,7 +10,6 @@
 - 💞️ I’m looking to collaborate on nothing<br>
 - 😎 I need a h*g<br>
 
-  <summary>Stats</summary>
 
 <table align="center">
     <tr>
