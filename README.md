@@ -2,7 +2,6 @@
 # [Welcome to My Profile! 👋](https://catty.network)
 ![Profile views](https://gpvc.arturio.dev/igetalways)🤔
 
-            <img align:"right" src="https://github-profile-spotify-status-sigma.vercel.app" />
 
 - 👋 Hi, I’m @iGetAlways<br>
 - 👀 I’m interested in nothing<br>
@@ -10,6 +9,8 @@
 - 💞️ I’m looking to collaborate on nothing<br>
 - 😎 I need a h*g<br>
 <details>
+                        <img align:"right" src="https://github-profile-spotify-status-sigma.vercel.app" />
+
   <summary>Stats</summary>
 
 <table align="center">
