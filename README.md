@@ -22,5 +22,5 @@
 
 </details>
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=crly6aiu2ae28acv054dr0azk&cover_image=true&theme=default"/>
+            <img src="https://github-profile-spotify-status-sigma.vercel.app" />
   </div>
