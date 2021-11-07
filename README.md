@@ -1,6 +1,5 @@
-<div>
-                                    <img align:"right" src="https://github-profile-spotify-status-sigma.vercel.app" />
-</div>
+<img align="right" width="310" alt="SVG" src="https://github-profile-spotify-status-sigma.vercel.app" />
+
 # [Welcome to My Profile! 👋](https://catty.network)
 ![Profile views](https://gpvc.arturio.dev/igetalways)🤔
 
