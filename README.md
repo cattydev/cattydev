@@ -1,4 +1,6 @@
-
+<div>
+                                    <img align:"right" src="https://github-profile-spotify-status-sigma.vercel.app" />
+</div>
 # [Welcome to My Profile! 👋](https://catty.network)
 ![Profile views](https://gpvc.arturio.dev/igetalways)🤔
 
@@ -9,7 +11,6 @@
 - 💞️ I’m looking to collaborate on nothing<br>
 - 😎 I need a h*g<br>
 <details>
-                        <img align:"right" src="https://github-profile-spotify-status-sigma.vercel.app" />
 
   <summary>Stats</summary>
 
