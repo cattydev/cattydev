@@ -1,2 +1,2 @@
 ### 🙅 No Content-Blocking vs. Content-Blocking
-https://cattydev.github.io/cattydev/vid.mp4
+https://github.com/cattydev/cattydev/raw/main/vid.mp4
